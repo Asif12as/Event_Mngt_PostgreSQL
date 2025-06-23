@@ -2,7 +2,9 @@
 
 A comprehensive, production-ready event management application built with Next.js and PostgreSQL. This system demonstrates modern full-stack development practices with a beautiful, responsive interface and robust backend API.
 
-![Home](deepsense_home.jpg
+![Home](deepsense_home.JPG)
+
+![Filter](deepsense_filter_feature.JPG)
 ## 🚀 Features
 
 ### Core Functionality

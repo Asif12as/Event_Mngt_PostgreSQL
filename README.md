@@ -1,4 +1,4 @@
-# Event Management System with PostgreSQL
+#  Event Management System with PostgreSQL
 
 A comprehensive, production-ready event management application built with Next.js and PostgreSQL. This system demonstrates modern full-stack development practices with a beautiful, responsive interface and robust backend API.
 
